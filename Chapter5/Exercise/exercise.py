@@ -1,0 +1,8 @@
+print('a: ', True and not False)
+print('b: ', True and not False)
+print('c: ', True or True and False)
+print('d: ', not True or not False)
+print('e: ', True and not 0)
+print('f: ', 52 < 52.3)
+print('g: ', 1 + 52 < 52.3)
+print('h: ', 4 != 4.0)
