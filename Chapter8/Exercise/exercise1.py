@@ -14,7 +14,7 @@ f. The empty list
 
 kingdoms = ['Bacteria', 'Protozoa', 'Chromista', 'Plantae', 'Fungi', 'Animalia']
 print('First item in the list: {0}'.format(kingdoms[0]))
-print('Last item in the list: {0}'.format(kingdoms[-1]))
+print('Last item in the list: {0}'.format(kingdoms[5]))
 print('List: {0}'.format(kingdoms[:3]))
 print('List: {0}'.format(kingdoms[2:-1]))
 print('List: {0}'.format(kingdoms[4:]))
